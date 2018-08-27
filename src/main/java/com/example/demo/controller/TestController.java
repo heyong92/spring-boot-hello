@@ -10,4 +10,10 @@ public class TestController {
 
         return str;
     }
+
+
+    public String index(String str){
+
+        return str;
+    }
 }
