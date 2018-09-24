@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class DemoApplicationTests {
 
 	@Test
-	public void contextLoadsM12312222() {
+	public void contextLoadsM1231333332() {
 	}
 
 }
